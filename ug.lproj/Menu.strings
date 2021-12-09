@@ -1,0 +1,329 @@
+/*
+  Menu.strings
+  Typora
+ 
+ by hi@typora.io & oqughin@github
+*/
+
+/* Typora Menu */
+
+"About Typora" = "ھەققىدە";
+"Preferences" = "مايىللىقلار";
+"Check for Updates" = "يېڭىلانما تەكشۈرۈش";
+"Services" = "مۇلازىمەت";
+"Hide Typora" = "نى يوشۇرۇشTypora";
+"Hide Others" = "باشقىنى يوشۇرۇش";
+"Show All" = "ھەممىنى كۆرسىتىش";
+"Quit Typora" = "چېكىنىش";
+
+/* File Menu */
+
+"File" = "ھۆججەت";
+"New" = "يېڭىدىن قۇرۇش";
+"Open" = "ئېچىش";
+"Open Folder" = "قىسقۇچ ئېچىش"; 
+"Reopen with Encoding" = "كودلاپ قايتا ئېچىش";  
+"Auto" = "ئاپتوماتىك";
+"Open Recent" = "يېقىنقى ھۆججەتنى ئېچىش";
+"Recent Locations" = "يېقىنقى ئورۇنلار";
+"Clear Items" = "يېقىنقى ھۆججەتلەرنى تازىلاش";
+"No Recent Files" = "قۇرۇق";
+"Open Quickly" = "تېز ئېچىش";
+"Open File Location" = "ھۆججەت ئورنىنى ئېچىش";
+"Reveal in Library" = "ئارخىپ تىزىملىكىدە كۆرسىتىش";
+"Reveal in File Tree" = "ھۆججەتلەردە كۆرسىتىش";
+"Close" = "تاقاش";
+"Save" = "ساقلاش";
+"Save As" = "باشقا نامدا ساقلاش";
+"Duplicate" = "نۇسخىلاش";
+"Rename" = "نام ئۆزگەرتىش";
+"Move To" = "يۆتكەش";
+"Revert To" = "ئەسلىگە كەلتۈرۈش";
+"Browse All Versions" = "ھەممە نەشىرىنى كۆرۈش";
+"Import" = "ئەكىرىش";
+"Export" = "چىقىرىش";
+"Page Setup" = "بەت تەڭشەش";
+"Print" = "بېسىش";
+
+/* Edit Menu */
+"Edit" = "تەھرىرلەش";
+"Undo" = "يېنىش";
+"Redo" = "قايتىلاش";
+"Cut" = "كېسىش";
+"Copy" = "كۆپەيتىش";
+"Paste" = "چاپلاش";
+"Copy as Markdown" = "بويىچە كۆپەيتىش Markdown";
+"Copy as HTML Code" = "كودى بويىچە كۆپەيتىش HTML";
+"Paste as Plain Text" = "تېكىست ھالىتىدە چاپلاش";
+"Select All" = "ھەممىنى تاللاش";
+"Select Line/Sentence" = "نۆۋەتتىكى قۇر/جۈملىنى تاللاش";
+"Select Styled Scope" = "نۆۋەتتىكى ئۇسلۇب تېكىستنى تاللاش";
+"Select Word" = "نۆۋەتتىكى سۆزنى تاللاش";
+"Delete" = "ئۆچۈرۈش";
+"Delete Range" = "ئۆچۈرۈش دائىرىسى";
+"Delete Word" = "نۆۋەتتىكى سۆزنى ئۆچۈرۈش";
+"Delete Styled Scope" = "نۆۋەتتىكى ئۇسلۇب تېكىستىنى ئۆچۈرۈش";
+"Delete Line/Sentence" = "نۆۋەتتىكى قۇر/جۈملىنى ئۆچۈرۈش";
+"Jump To" = "سەكىرەش";
+"Jump to Top" = "يازما بېشىغا سەكىرەش";
+"Jump to Selection" = "تاللانغان ئورۇنغا سەكىرەش";
+"Jump to Bottom" = "يازما ئاخىرىغا سەكىرەش";
+"Math Tools" = "ماتېماتىكا قورالى";
+"Refresh All Math Expressions" = "بارىلىق فورمۇلانى يېڭىلاش";
+"Image Tools" = "رەسىم قورالى";
+"Insert Local Images" = "يەرلىكتىكى رەسىمنى قىستۇرۇش";
+"Upload Local Images via iPic" = "نى ئىشلىتىپ يەرلىكتىكى رەسىمنى يۈكلەش iPic";
+"When Insert Local Image" = "يەرلىكتىكى رەسىمنى قىستۇرغاندا";
+"Copy Image File to Folder" = "رەسىمنى ھۆججەت قىسقۇچقا كۆپەيتىش";
+"Use Image Root Path" = "رەسىم غول مۇندەرىجىسىنى تەڭشەش";
+"Line Endings" = "قۇر بۆلگۈچ";
+"Windows Line Endings (CRLF)" = " (CRLF) قۇر بۆلگۈچى Windows";
+"Unix Line Endings (LF)" = " (LF) قۇر بۆلگۈچى Unix";
+"Find" = "ئىزدەش";
+"Find Next" = "كېيىنكىنى ئىزدەش";
+"Find Previous" = "ئالدىنقىنى ئىزدەش";
+"Find and Replace" = "ئىزدەش ۋە ئالماشتۇرۇش";
+"Replace" = "ئالماشتۇرۇش";
+"Replace Next" = "كېيىنكىنى ئالماشتۇرۇش";
+"Spelling and Grammar" = "ئىملا ۋە گىرامماتىكا تەكشۈرۈش";
+"Check Document Now" = "يازمىنى ھازىرلا تەكشۈرۈش";
+"Check Spelling While Typing" = "يېزىۋاتقاندا ئىملا تەكشۈرۈش";
+"Check Grammar With Spelling" = "ئىملا ۋە گىرامماتىكىنى تەكشۈرۈش";
+"Correct Spelling Automatically" = "ئاپتوماتىك ئىملا توغرىلاش";
+"Substitutions" = "ئالماشتۇرۇش";
+"Smart Quotes" = "ئەقلىي قوش پەش";
+"Smart Dashes" = "ئەقلىي سىزىق";
+"Text Replacement" = "تېكىست ئالماشتۇرۇش";
+"Speech" = "تاۋۇش";
+"Start Speaking" = "ئوقۇتۇش";
+"Stop Speaking" = "ئوقۇشنى توختىتىش";
+
+/* Paragraph Menu */
+"Paragraph" = "ئابزاس";
+"Heading 1" = "ماۋزۇ 1";
+"Heading 2" = "ماۋزۇ 2";
+"Heading 3" = "ماۋزۇ 3";
+"Heading 4" = "ماۋزۇ 4";
+"Heading 5" = "ماۋزۇ 5";
+"Heading 6" = "ماۋزۇ 6";
+"Increase Heading Level" = "ماۋزۇ دەرىجىسىنى كۆتۈرۈش";
+"Decrease Heading Level" = "ماۋزۇ دەرىجىسىنى چۈشۈرۈش";
+"Table" = "جەدىۋەل";
+"Code Fences" = "كود بۆلىكى";
+"Math Block" = "فورمۇلا بۆلىكى";
+"Quote" = "نەقىل";
+"Ordered List" = "تەرتىپلىك تىزىملىك";
+"Unordered List" = "تەرتىپسىز تىزىملىك";
+"Task List" = "ۋەزىپە تىزىملىكى";
+"Task Status" = "ۋەزىپە ھالىتى";
+"Toggle Task Status" = "ۋەزىپە ھالىتىنى ئالماشتۇرۇش";
+"Mark as Complete" = "تاماملاندى قىلىش";
+"Mark as Incomplete" = "تاماملانمىدى قىلىش";
+"List Indentation" = "تىزىملىك كىرتىكى";
+"Indent" = "كىرتىك ئاشۇرۇش";
+"Outdent" = "كىرتىك ئازايتىش";
+"Link Reference" = "ئۇلانما نەقلى";
+"Footnotes" = "ئىزاھ";
+"Horizontal Line" = "گورىزونتال كەسمە سىزىق";
+"Table of Contents" = "مەزمۇن مۇندەرىجىسى";
+"YAML Front Matter" = "YAML Front Matter";
+
+/* Format Menu */
+"Format" = "فورمات";
+"Strong" = "توملىتىش";
+"Emphasis" = "يانتۇ";
+"Underline" = "ئاستىغا سىزىش";
+"Code" = "كود";
+"Inline Math" = "قۇردىكى فورمۇلا";
+"Strike" = "ئۆچۈرمە سىزىق";
+"Highlight" = "گەۋدىلەندۈرۈش";
+"Superscript" = "ئۈستبەلگە";
+"Subscript" = "ئاستبەلگە";
+"Comment" = "ئىزاھات";
+"Hyperlink" = "ئۇلانما";
+"Image" = "رەسىم";
+"Clear Format" = "ئۇسلۇبنى تازىلاش";
+
+/* View Menu */
+"View" = "كۆرۈنۈش";
+"New Tab" = "يېڭى بەتكۈچ";
+"Source Code Mode" = "ئەسلى كود ھالىتى";
+"Focus Mode" = "دىققەت ھالىتى";
+"Typewriter Mode" = "خەتباسقۇ ھالىتى";
+"Toggle Sidebar" = "يانبالداقنى كۆرسەت/يوشۇر";
+"Outline" = "تىزىس";
+"Articles" = "ماقالە تىزىملىكى";
+"File Tree" = "ھۆججەتلەر";
+"Always on Top" = "كۆزنەكنى ئەڭ ئۈستىدە كۆرسەت";
+"Full Screen" = "پۈتۈن ئېكران";
+"Show Status Bar" = "ھالەت سىتونىنى كۆرسىتىش";
+"Toggle Fullscreen" = "پۈتۈن ئېكرانغا ئالماشتۇرۇش"; 
+"Actual Size" = "ئەمەلىي چوڭلىقى"; 
+"Zoom In" = "چوڭايتىش"; 
+"Zoom Out" = "كىچىكلىتىش"; 
+"Switch Between Opened Documents" = "ئېچىلغان ماقالىلەر ئارىسىدا ئالماشتۇرۇش"; 
+"Toggle DevTools" = "ئاچقۇچىلار قورالى"; 
+
+/* Themes Menu */
+"Themes" = "ئۇسلۇب";
+
+/* Window Menu */
+"Window" = "كۆزنەك";
+"Minimize" = "كىچىكلىتىش";
+"Zoom" = "چوڭ-كىچىكلىتىش";
+"Bring All to Front" = "ھەممە كۆزنەكنى ئالدىغا";
+
+/* Help Menu */
+"Help" = "ياردەم";
+"More Topics" = "تېخىمۇ كۆپ ئۇسلۇبلار";
+"Privacy Policy" = "مەخپىيەتلىك كېلىشىمى";
+"Credits" = "تەشەككۈرلەر";
+"Change Log" = "يېڭىلانما خاتىرىسى";
+"Website" = "توربەت";
+"Feedback" = "ئىنكاس قىلىش";
+"Check Updates" = "يېڭىلانمىلارنى تەكشۈرۈش";
+"About" = "ھەققىدە";
+
+/* Touchbar */
+"Block Styles" = "بۆلەك ئۇسلۇبى";
+"Inline Styles" = "قۇر ئۇسلۇبى";
+"List Styles / Remove Block" = "تىزىملىك ئۇسلۇبى/بۆلەكنى چىقىرىۋېتىش";
+"Exit Source Code Mode" = "ئەسلى كود ھالىتىدىن چېكىنىش";
+"Toggle Source Code Mode" = "ئەسلى كود ھالىتىنى قوزغىتىش";
+
+/* Extra Context Menu */
+"Table" = "جەدىۋەل";
+"Add Row Above" = "ئۈستىگە قۇر قىستۇرۇش";
+"Add Row Below" = "ئاستىغا قۇر قىستۇرۇش";
+"Delete Row" = "قۇر ئۆچۈرۈش";
+"Add Column Before" = "سولغا رەت قوشۇش";
+"Add Column After" = "ئوڭغا رەت قوشۇش";
+"Delete Column" = "رەت ئۆچۈرۈش";
+"Copy Table" = "جەدىۋەل كۆپەيتىش";
+"Delete Table" = "جەدىۋەل ئۆچۈرۈش";
+"Insert Paragraph Before" = "ئۈستىگە ئابزاس قوشۇش";
+"Insert Paragraph After" = "ئاستىغا ئابزاس قوشۇش";
+"Delete Code Block" = "كود بۆلىكىنى ئۆچۈرۈش";
+"Copy as MathML" = "شەكلىدە كۆپەيتىش MathML";
+"Copy as Tex" = "كودى شەكلىدە كۆپەيتىش Tex";
+"Copy Math" = "فورمۇلانى كۆپەيتىش";
+"Reveal in Finder" = "دا كۆرسىتىش Finder";
+"Open Link" = "ئۇلانمىنى ئېچىش";
+"Reveal in Sidebar" = "يانبالداقتا كۆرسىتىش";
+"Open in New Window" = "يېڭى كۆزنەكتە ئېچىش";
+"Copy File Path" = "ھۆججەت يولىنى كۆپەيتىش";
+"New File" = "يېڭى ھۆججەت قۇرۇش";
+"Rename" = "نام ئۆزگەرتىش";
+"New Folder" = "يېڭى قىسقۇچ قۇرۇش";
+
+/* Electron */
+"Learn Spelling" = "لۇغەتكە قوشۇش";
+"Copy / Paste As…" = "كۆپەيتىپ/چاپلاش...";
+"Math" = "فورمۇلا";
+"Insert" = "قىستۇرۇش";
+"Inspect Element" = "ئېلمېنتنى تەكشۈرۈش";
+"Copy to MS Word" = "ۋوردقا كۆپەيتىش";
+"Paragraph (before)" = "ئابزاس (ئۈستۈنكى)";
+"Paragraph (after)" = "ئابزاس (ئاستىنقى)";
+
+"Search with Google" = "گوگىلدىن ئىزدەش";
+"Search With…" = "…ئىزدەش";
+
+/* Related Panel */
+"Open Failed" = "ئېچىلمىدى";
+"File or folder does not exist." = "ھۆججەت ياكى قىسقۇچ مەۋجۇت ئەمەس.";
+
+"Prettify Source Code" = "جەدىۋەل كودىنى فورماتلاش";
+"Copy '%@'" = "نى كۆپەيتىش '%@'";
+"Copy to %@" = "غا كۆپەيتىش %@";
+"Copy Image to" = "رەسىمنى كۆپەيتىش";
+"Open Image Location" = "رەسىم ئورنىنى ئېچىش";
+
+"Learn More" = "تەپسىلاتى";
+"Whitespace and Line Breaks" = "بوشلۇق ۋە قۇر بۆلگۈچ";
+"Indent first line of paragraphs" = "باش قۇرنى قىسىش";
+"Preserve single line break" = "يالغۇز قۇر بۆلگۈچنى قالدۇرۇش";
+"Visible <br/>" = "كۆرسىتىش <br/>";
+
+"Save All" = "ئاچقان ھەممە ھۆججەتنى ساقلاش";
+"New Window" = "يېڭى كۆزنەك";
+"Reopen Closed File" = "تاقىغان ھۆججەتلەرنى قايتا ئېچىش";
+
+"Global Image Settings" = "ھەممە رەسىمنى تەڭشەش";
+"Smart Punctuation" = "تىنىش بەلگىلەرنى ئاپتوماتىك قويۇش";
+"Convert on Input" = "كىرگۈزگەندە ئالماشتۇرۇش";
+"Convert on Rendering" = "ھاسىللىغاندا ئالماشتۇرۇش";
+"Remap Unicode Punctuation on Parse" = "نى ئانالىز قىلغاندا يۇنىكود بەلگىلىرىگە ئالماشتۇرۇشقا قوشۇلۇش Markdown ";
+"More Options" = "تاللانمىلار";
+
+"HTML Block" = "مەزمۇنى HTML";
+"Delete Block" = "بۆلەكنى ئۆچۈرۈش";
+"Delete %@" = "نى ئۆچۈرۈش %@";
+"Play" = "قويۇش";
+"Pause" = "توختىتىش";
+
+"Spell Check" = "ئىملا تەكشۈرۈش";
+"Unlearn Spelling" = "ئىملا تەكشۈرۈكسىز";
+"Properties" = "خاسلىق";
+
+"Search" = "ئىزدەش";
+"Copy without Theme Styling" = "مەزمۇننى فورماتسىز كۆپەيتىش";
+"Recent Files" = "يېقىندا ئاچقانلىرىم";
+"File Results" = "ھۆججەت نەتىجىسى";
+
+"Insert Table" = "جەدىۋەل قىستۇرۇش";
+"Insert Image" = "رەسىم قىستۇرۇش";
+"Allow Magnification" = "قوش بارماقتا چوڭ-كىچىكلىتىش";
+
+"Move Row Up" = "بۇ قۇرنى ئۈستىگە يۆتكەش";
+"Move Row Down" = "بۇ قۇرنى ئاستىغا يۆتكەش";
+"Move Column Left" = "بۇ رەتنى سولغا يۆتكەش";
+"Move Column Right" = "بۇ رەتنى ئوڭغا يۆتكەش";
+
+"Zoom Image" = "رەسىمنى چوڭ-كىچىكلىتىش";
+"Zoom Image to %@" = "رەسىمنى %@ چوڭ-كىچىكلىتىش";
+
+"Copy as Plain Text" = "تېكىست شەكلىدە كۆچۈرۈش";
+
+"Selection" = "تاللاش";
+"Start Speaking" = "ئوقۇتۇش";
+"Stop Speaking" = "ئوقۇشنى توختىتىش";
+"Check Updates" = "يېڭىلانمىلارنى تەكشۈرۈش";
+
+"HTML (without Styles)" = "(ئۇسلۇبسىز) HTML";
+
+"Highlight Current Header" = "نۆۋەتتىكى ماۋزۇنى گەۋدىلەندۈرۈش";
+"Expand All" = "ھەممىنى يېيىش";
+"Collapse All" = "ھەممىنى يىغىش";
+"Collapsible Outline" = "تىزىس كۆرۈنۈشى (يىغقسىز)";
+"Flat Outline" = "تىزىس كۆرۈنۈشى (يىغىقلىق)";
+"Articles (List View)" = "ماقالە تىزىملىكى";
+"File Tree (Tree View)" = "ھۆججەتلەر";
+"Filter" = "ئىزدەش";
+
+"Upload Image" = "رەسىم يۈكلەش";
+"Upload All Local Images" = "يەرلىكتىكى ھەممە رەسىمنى يۈكلەش";
+"Open Image in Browser" = "رەسىمنى تور كۆرگۈدە ئېچىش";
+
+"Copy Image" = "رەسىمنى كۆپەيتىش";
+
+"More Actions" = "تېخىمۇ كۆپ مەشغۇلات";
+"Get Info" = "تونۇشتۇرىشىنى كۆرسىتىش";
+
+"Export with Previous" = "ئالدىدىكى تەڭشەك بويىچە چىقىرىش";
+"Export and Overwrite with Previous" = "ئالدىدا چىقارغان ھۆججەتنى قاپلاش ۋە چىقىرىش";
+
+"Emoji and Symbols" = "چىرايچە ۋە بەلگە";
+
+"Insert Final New Line On Save" = "ساقلىغاندا ھۆججەت ئاخىرىغا قۇرۇق قۇر قوشۇش";
+"Hyperlink Actions" = "ئۇلانما مەشغۇلاتى";
+"Copy Link Address" = "ئۇلانما ئادرېسىنى كۆپەيتىش";
+
+"Click" = "چېكىش";
+
+"Export Setting" = "چىقىرىش تەڭشىكى";
+
+"My License" = "ئىجازەتنامەم";
+"Registration / Activation" = "ئىجازەتنامە ئۇچۇرى";
+
+"Select Paragraph/Block" = "ئابزاس/بۆلەك تاللاش";
