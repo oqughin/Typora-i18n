@@ -1,1 +1,190 @@
+/*
+  Front.strings
+  Typora
+ 
+ by hi@typora.io & oqughin@github
+*/
 
+/* Common */
+"OK" = "مۇقۇملاش";
+"Cancel" = "قالدۇرۇش";
+"Yes" = "ھەئە";
+"No" = "ياق";
+"Close" = "تاقاش";
+"Select" = "تاللاش";
+"Continue" = "داۋاملاشتۇرۇش";
+"Learn More…" = "...تېخىمۇ كۆپ";
+"Untitled" = "نامسىز";
+"Undo" = "ياندۇرۇش";
+"Dismiss" = "تاقاش";
+"Confirm" = "مۇقۇملاش";
+"Error" = "خاتالىق";
+
+/* Search Panel */
+"Search" = "ئىزدەش";
+"Replace" = "ئالماشتۇرۇش";
+"All" = "ھەممىسى";
+"Search text not found in article" = "ئىزدىگەن مەزمۇن تېپىلمىدى";
+"search text" = "مەزمۇن ئىزدەش";
+
+/* Quick Open */
+"Search by file name" = "ھۆججەت نامى بويىچە ئىزدەش";
+"Searching" = "ئىزدەۋاتىدۇ";
+"Gathering more results" = "تېخىمۇ كۆپ نەتىجە يۈكلىنىۋاتىدۇ";
+
+/* Tables */
+"Insert Table" = "جەدىۋەل قىستۇرۇش";
+"Columns" = "قاتار";
+"Rows" = "رەت";
+"Align Left" = "سولغا توغرىلاش";
+"Align Center" = "ئوتتۇرىغا توغرىلاش";
+"Align Right" = "ئوڭغا توغرىلاش";
+"Resize Table" = "جەدىۋەلنى تۈزەش";
+"Delete Table" = "جەدىۋەلنى ئۆچۈرۈش";
+
+/* Images */
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = " ‫YAML Front Matter ياكى ئومۇمىي تەڭشەكتىكى سەپلىمىگە ئاساسەن، Typora يېڭىدىن قوشقان رەسىمنى  <code id='image-create-folder-target'></code> ھۆججەت قىسقۇچىغا كۆپەيتمەكچى. لېكىن مەزكۇر مۇندەرىجە مەۋجۇت بولمىغانلىقى ئۈچۈن يېڭىدىن قۇرماقچى، قوشۇلامسىز؟";
+"Create Folder" = "ھۆججەت قىسقۇچ قۇرۇش";
+
+/* Math */
+"Edit" = "تەھرىرلەش";
+"Delete Math" = "فورمۇلانى ئۆچۈرۈش";
+"Preview" = "كۆرۈش";
+
+/* Sidebar */
+"Articles" = "ئارخىپ";
+"Outline" = "تېزىس";
+"Files" = "ھۆججەت";
+"Switch to File List view" = "ئارخىپ تىزىملىكىگە ئالماشتۇرۇش";
+"Switch to File Tree view" = "ھۆججەت دەرىخىگە ئالماشتۇرۇش";
+"Switch to Outline view" = "تېزىس كۆرۈنمىسىگە ئالماشتۇرۇش";
+"Close sidebar" = "يان رامكىنى تاقاش";
+"Loading" = "يۈكلىنىۋاتىدۇ";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "‫نۆۋەتتىكى ھۆججەت قىسقۇچتا ھۆججەت ھەددىدىن زىيادە كۆپ،  <a id='switch-to-tree-on-oversize'> ھۆججەت دەرىخىگە ئالماشتۇرۇپ </a> تېخىمۇ راۋان ئىشلىتىڭ";
+"New File" = "ھۆججەت قۇرۇش";
+"Unpin Outline Panel" = "تېزىس كۆرۈنمىسىنى تاقاش";
+"Open Folder..." = "...ھۆججەت قىسقۇچ ئېچىش";
+"Action" = "مەشغۇلات";
+"Close Sidebar Menu" = "تاقاش";
+"Reveal in Finder" = "دە كۆرسىتىشFinder";
+"Reveal in File Explorer" = "مەنبە باشقۇرغۇچتا كۆرسىتىش";
+"Refresh Folder" = "يېڭىلاش";
+"Sort" = "رەتلەش";
+"Group By Folder" = "ھۆججەت قىسقۇچ بويىچە گۇرۇپپىلاش";
+"Sort Naturally (Ascending)" = "تەبئىي رەتلەش (ئۆرلىمە تەرتىپ)";
+"Sort Naturally (Descending)" = "تەبئىي رەتلەش (تۆۋەنلىمە تەرتىپ)";
+"Sort by Name (Ascending)" = "ھۆججەت نامى بويىچە رەتلەش (ئۆرلىمە تەرتىپ)";
+"Sort by Modification Date (Ascending)" = "ئۆزگەرتكەن ۋاقىت بويىچە رەتلەش (ئۆرلىمە تەرتىپ)";
+"Sort by Name (Descending)" = "ھۆججەت نامى بويىچە رەتلەش (تۆۋەنلىمە تەرتىپ)";
+"Sort by Modification Date (Descending)" = "ئۆزگەرتكەن ۋاقىت بويىچە رەتلەش (تۆۋەنلىمە تەرتىپ)";
+"Location" = "مۇندەرىجە";
+"Switch File List/Tree View" = "جەدىۋەل/دەرەخ كۆرۈنمىسىگە ئالماشتۇرۇش";
+"No Files Available" = "ھۆججەت تىزىملىكى قۇرۇق";
+"No Folder is Opened." = "ھۆججەت قىسقۇچ يوق";
+"Outline is Empty." = "تېزىس مەزمۇنى قۇرۇق";
+
+/* Status Bar */
+"Toggle Sidebar" = "يان رامكىنى كۆرسىتىش / يوشۇرۇش";
+"Toggle Source Code Mode" = "ئەسلى كود ھالىتىنى قوزغىتىش";
+"Exit Source Code Mode" = "ئەسلى كود ھالىتىدىن چېكىنىش";
+
+"Table of Contents" = "مۇندەرىجە";
+"Empty Diagram" = "قۇرۇق";
+"Input Math TeX here" = "‫بۇ يەرگە Tex فورمۇلاسى يېزىڭ";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "‫<a>[^{1}]: www.example.com</a> گىرامماتىكىسى بويىچە ‫ئىزاھاتنى ئېنىقلاڭ <b>{0}</b>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "‫<b>[{1}]: www.example.com</b>  گىرامماتىكىسى بويىچە ئۇلانمىنى ئېنىقلاڭ <b>[{0}]</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "‫ [{0}]: http://example.png  گىرامماتىكىسى بويىچە رەسىمگە ئېنىقلىما بېرىڭ";
+
+/* msg */
+"Failed to create file" = "ھۆججەت قۇرۇلمىدى";
+"Failed to create folder" = "ھۆججەت قىسقۇچ قۇرۇلمىدى";
+"Failed to rename file" = "ھۆججەتكە قايتا نام قويۇش مەغلۇب بولدى";
+"Folder does not exist at %@" = "مۇندەرىجە %@ مەۋجۇت ئەمەس";
+"File with the same name already exists at target path" = "ئوخشاش نامدىكى ھۆججەت ئاللىقاچان مەۋجۇت";
+"Apply to All" = "ھەممىگە قوللىنىش";
+"Overwrite" = "ئالماشتۇر";
+"Stop" = "توختا";
+"back to document" = "ئارخىپقا قايتىش";
+"Failed to load file" = "ھۆججەت يۈكلەنمىدى";
+"Save File Failed!" = "ساقلاش مەغلۇب بولدى";
+"Cannot open folder {0}" = "{0}ھۆججەت قىسقۇچنى ئاچقىلى بولمىدى";
+
+"File content is changed by external applications. Reload content from disk ?" = "تاشقى پىروگرامما ھۆججەتنى ئۆزگەرتىۋەتتى، قايتىدىن يۈكلەمسىز؟";
+"Should continue moving and overwrite exisiting file(s) ?" = "ئەسلىدىكى ھۆججەتنى يۆتكەش ۋە ئالماشتۇرشنى داۋاملاشتۇرامسىز؟";
+
+"Rename Failed" = "قايتا ناملاش مەغلۇب بولدى";
+"Rename to \"{0}\" ?" = "يېڭى نامىنى \"{0}\" قويامسىز؟";
+"Failed to rename from \"{0}\" to \"{1}\"" = "نامىنى \"{0}\" دىن \"{1}\" غا ئالماشتۇرۇش مەغلۇب بولدى";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "دانە رەسىم چىقىرىلدى {0} ";
+"Failed to upload image. Error Message:" = ":رەسىم چىقىرىش مەغلۇب بولدى، خاتالىق";
+"Failed to Copy Image to Target Folder." = "رەسىمنى نىشان مۇندەرىجىگە كۆپەيتىش مەغلۇب بولدى";
+"Select Container Folder" = "رەسىم ساقلاش ئورنىنى تاللاڭ";
+
+"Saved" = "ساقلاندى";
+
+/* place holder in find & replace input */
+"search text" = "ئىزدەش";
+"replace with" = "ئالماشتۇرماقچى بولغان سۆزىڭىزنى كىرگۈزۈڭ";
+
+/* search option */
+"Case Sensitive" = "چوڭ-كىچىك يېزىلىشىنى پەرىقلەندۈرۈش";
+"Whole Word" = "پۈتۈن سۆزنى ئىزدەش";
+
+"input image URL" = "رەسىم ئورنىنى كىرگۈزۈڭ";
+"Select image from local file" = "يەرلىكتىكى رەسىمنى تاللاش";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "无法打开 <code>$1</code> ，您是想打开 <a href='https://$3'>https://$2</a> 么？";
+
+"select a language" = "تىل تاللاڭ";
+"Finish Editing" = "تەھرىرلەشنى تاماملاش";
+
+"Revert advanced setting file to default one ?" = "ئالىي تەڭشەكنى ئەسلىگە كەلتۈرەمسىز؟";
+
+"Select Spell Check Language" = "ئىملاسىنى تەكشۈرمەكچى بولغان تىلنى تاللاڭ";
+"Auto Detect Language" = "تىلنى ئاپتوماتىك تەكشۈرۈش";
+"Disable Spell Check" = "ئىملا تەكشۈرۈشنى ئىشلەتمەيمەن";
+"Global Setting…" = "...ئومۇمىي تەڭشەك";
+"Dictionary file is missing to enable spellcheck support for %@." = "拼写检查: 缺少对于 %@ 的字典文件。";
+"Install Language Support" = "مەزكۇر تىلنىڭ ئىملا تەكشۈرۈش قوللانچىسىنى قاچىلاش";
+"License Information" = "ئىجازەتنامە ئۇچۇرى";
+"Download" = "چۈشۈرۈش";
+"Install dictionary file only for Typora" = "غىلا ماس كېلىدىغان ئىملا تەكشۈرۈش قوللانچىسىنى قاچىلاش Typora";
+"Spell Check (%@ unavailable)" = "ئىملا تەكشۈرگۈچ (%@ ئىشلەتكىلى بولمايدۇ)";
+"Spell Check (%@ downloading)" = "ئىملا تەكشۈرگۈچ (%@ چۈشۈۋاتىدۇ)";
+"Download dictionary file for %@" = "گە مۇناسىۋەتلىك ئىملا تەكشۈرۈش قوللانچىسىنى چۈشۈرۈش %@ ";
+"(Default spell check option)" = "(سۈكۈتتىكى ئىملا تەكشۈرۈش تاللانمىسى)";
+"Failed to load spellcheck module" = "ئىملا تەكشۈرگۈچنى يۈكلەش مەغلۇپ بولدى";
+
+"<strong>%@</strong> has been turned on." = "ئېچىلدى <strong>%@</strong> ";
+"You could turn it off from `View` menu." = "'كۆرۈنۈش' تىزىملىكىدىن تاقىغىلى بولىدۇ";
+"The file is too large to render in Typora." = "مەزكۇر ھۆججەت زىيادە چوڭ بولغاچ، تايپورادا كۆرگىلى بولمايدۇ";
+"Open in…" = "...ئېچىش ئۇسۇلى";
+"Quick Look" = "تېز كۆرۈش";
+
+"Filter" = "ئىزدەش";
+"No result found." = "ماس كەلگەن مەزمۇن تېپىلمىدى";
+"Continue & Overwrite" = "باسۇرۇش";
+"The file is read-only, or you do not have right permissions to modify the file." = ".مەزكۇر ھۆججەت كۆرۈشكىلا بولىدىغان ياكى سىزنىڭ تەھرىرلەش ھوقۇقىڭىز يوق ھۆججەت";
+
+"Learn Data Recovery" = "ھۆججەتنى قانداق ئەسلىگە قايتۇرىمىز";
+"Auto refresh on Files Panel cannot be enabled." = "ھۆججەت تىزىملىكىنى ئاپتوماتىك يېڭىلىغىلى بولمىدى";
+"Delete Permanently" = "مەڭگۈلۈك ئۆچۈرۈش";
+
+"Failed to upload images:" = "ھۆججەت يۈكلەنمىدى";
+"Uploading in progress" = "يۈكلىنىۋاتىدۇ";
+"Successfully uploaded {0} images, {1} failed." = " پارچە رەسىم يۈكلەندى، {1} پارچىسى يۈكلەنمىدى {0} ";
+
+"You could undo this operation later via `Edit` → `Undo`." = "您可以在之后通过 `编辑` → `撤销` 撤销该操作。";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以按下 <strong>⌘ + 点击</strong> 以打开 <a href='#'>此链接</a> 或跳转到脚注定义。";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "您可以按下 <strong>CTRL + 点击</strong> 以打开 <a href='#'>此链接</a> 或跳转到脚注定义。";
+
+"<strong>Unibody</strong> style has been turned on." = "ئۇسلۇب ئېچىلدى <strong>بىرىكمە</strong> ";
+"You can right click titlebar to popup application menu." = "您可以右键单击标题栏以弹出应用程序菜单。";
+
+"Support Document" = "ياردەم ھۆججىتى";
+
+"You are not supposed to edit or save this file." = ".تەھرىرلىگىنىڭىزنى مەزكۇر ھۆججەتكە ساقلىماڭ";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "位于该文件夹 (%@) 的文件交由 Typora 管理，它们可能会被删除。如需更改，请将内容拷贝至新的路径再进行编辑。";
